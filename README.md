@@ -13,7 +13,7 @@
 <h2>Education</h2>
 <p>NEW ERA UNIVERSITY 🎓</p>
 <ul>
-    <li>Bachelor of Science in Informatics Technology</li>
+    <li>BSIT - College of Informatics and Computing Studies</li>
 </ul>
 
 <h2>Certifications</h2>

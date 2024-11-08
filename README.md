@@ -36,27 +36,23 @@
     <h1>Personal Profile</h1>
     
     <h2>Name</h2>
-    <p>John Doe</p>
+    <p>Stephanie May A. Ramos</p>
 
     <h2>Education</h2>
     <ul>
-        <li>Bachelor of Science in Computer Science - University A</li>
-        <li>Master of Science in Software Engineering - University B</li>
+        <li>Bachelor of Science of Science and Computing Studies - University A</li>
     </ul>
 
     <h2>Certifications</h2>
     <ul>
-        <li>Certified Scrum Master (CSM)</li>
-        <li>Microsoft Certified: Azure Developer Associate</li>
-        <li>Amazon Web Services (AWS) Certified Solutions Architect</li>
+        <li>https://courses.cognitiveclass.ai/certificates/b58c0a02a7e944f09808067c30062a4c</li>
     </ul>
 
     <h2>Skillsets</h2>
     <ul>
         <li>Programming Languages: Python, Java, JavaScript</li>
         <li>Web Development: HTML, CSS, React</li>
-        <li>Database Management: MySQL, MongoDB</li>
-        <li>Cloud Services: AWS, Azure</li>
+        <li>Database Management: MySQL, </li>
     </ul>
 </body>
 </html>
